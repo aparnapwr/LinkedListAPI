@@ -12,3 +12,4 @@ COPY app app
 CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "80"]
 #run a FastAPI application using Uvicorn server
 
+
