@@ -88,5 +88,9 @@ After successful deployment of the AWS CloudFormation Stack, you can access the 
 
   Deletes the node at specified position.
 
-The API has full Swagger UI integration, accessible at `/docs`.
+---
+The API has full Swagger UI integration, accessible at `/docs`:
+<img width="1495" height="766" alt="Screenshot 2025-07-26 at 12 24 19 PM" src="https://github.com/user-attachments/assets/0c77dc64-9acf-4592-8f75-d7f232ec86b3" />
+
+
   
